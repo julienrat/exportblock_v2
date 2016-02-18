@@ -30,7 +30,7 @@ New Privileges: export
 
 Commands:
 Take block you want to export and run :
-   /exportblock width lenght hight
+   /exportblock width lengh hight
    
       -- Requires "export" privilege.  Takes no parameters.  Exports nodes from
          the player's current 80x80x80 node block named in EXPORT_NODES.
