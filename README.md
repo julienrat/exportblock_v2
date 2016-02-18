@@ -15,4 +15,4 @@ Mod à placer dans le repertoire "mods" de minecraft :
 
 4 - on contemple l'avancement de l'export dans la ligne de tchat !
 
-5 - on recupere le fichier obj dans le repertoire Word !
+5 - on recupere le fichier obj dans le repertoire World !
