@@ -7,9 +7,9 @@ Mod à placer dans le repertoire "mods" de minecraft :
     - GNU/Linux: ~/.minetest/mods
 
 
-1 - on construit un truc avec n'importe quel block
+1 - on construit un truc avec n'importe quel bloc
 
-2 - on garde le block à la main
+2 - on garde le bloc à la main (il determine les blocs à exporter)
 
 3 - on indique l'espace que l'on veux exporter par la commande /exportblock 20 20 20 (avec longueur, largeur et hauteur en blocks ! )
 
