@@ -1,5 +1,5 @@
 # exportblock_v2
-Mod à placer ici, dans le repertoire mods :
+Mod à placer dans le repertoire "mods" de minecraft :
 
 
     - Windows: minetest-install-path/mods
