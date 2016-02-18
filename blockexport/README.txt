@@ -43,6 +43,10 @@ Git Repo: https://github.com/prestidigitator/minetest-mod-blockexport.git
 
 Change History
 --------------
+Version 1.1
+* added progression info
+* choose area of export
+* multiple material export
 
 Version 1.0
 
@@ -57,5 +61,5 @@ Copyright and Licensing
 
 All contents are the original creations of the mod author.
 
-Author: prestidigitator (as registered on forum.minetest.net)
+Author: prestidigitator (as registered on forum.minetest.net) & julienrat for v1.1
 License: WTFPL (all content)
