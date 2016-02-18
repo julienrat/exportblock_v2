@@ -1,4 +1,5 @@
 # exportblock_v2
+[![screenshot](https://raw.github.com/julienrat/exportblock_v2/master/Minetest.png)]
 Mod (repertoire blockexport) à placer dans le repertoire "mods" de minecraft :
 
 
