@@ -6,7 +6,7 @@
 Mod (repertoire blockexport) à placer dans le repertoire "mods" de minecraft :
 
 
-    - Windows: minetest-install-path/mods
+    * Windows: minetest-install-path/mods
     - OS X: minetest.app/Contents/Resources/bin/mods
     - GNU/Linux: ~/.minetest/mods
 
