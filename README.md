@@ -15,7 +15,9 @@ Mod (repertoire blockexport) à placer dans le repertoire "mods" de minecraft :
 
 2 - on garde le bloc à la main (il determine les blocs à exporter)
 
-3 - on indique l'espace que l'on veux exporter par la commande /exportblock 20 20 20 (avec longueur, largeur et hauteur en blocs ! )
+3 - on indique l'espace que l'on veux exporter par la commande /exportblock  longueur largeur hauteur en blocs ! 
+
+	/exportblock 20 20 20
 
 4 - on contemple l'avancement de l'export dans la ligne de tchat !
 
