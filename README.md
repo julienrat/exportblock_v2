@@ -1,4 +1,4 @@
-# exportblock_v2
+# exportblock_v2 script d'export 3D pour Minetest
 ![screenshot](https://raw.github.com/julienrat/exportblock_v2/master/Minetest.png)
 ![screenshot](https://raw.github.com/julienrat/exportblock_v2/master/cura.png)
 
