@@ -224,7 +224,7 @@ local function exportBlock(pos,largeur,hauteur,longueur)
 
    local verts, quads = getObjData(xMin, yMin, zMin, xMax, yMax, zMax,largeur,hauteur);
    for _, v in ipairs(verts) do
-      file:write("v "..(v.x-xMin).." "..(v.z-zMin).." "..(v.y-yMin).."\n");
+      file:write("v "..(v.x-xMin).." "..(v.y-yMin).." "..(v.z-zMin).."\n");
    end
    for _, f in ipairs(quads) do
       file:write("f "..f[1].." "..f[2].." "..f[3].." "..f[4].."\n");
